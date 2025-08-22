@@ -2,7 +2,8 @@
 
 <<INFO
 
-THIS SCRIPT IS USED ONLY FOR BACKUPS
+THIS SCRIPT IS USED ONLY FOR BACKUPS 
+and can also be used with cron
 
 INFO
 
